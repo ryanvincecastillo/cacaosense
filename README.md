@@ -447,8 +447,10 @@ OPENAI_API_KEY=...
 
 ## 👥 Team
 
-- **Ryan Vince Castillo** - Lead Developer
-- [Add team members]
+- **Ryan Vince Castillo** - Leading the team and working as one of our developers.
+- **Earl Cariño** - Frontend developer and storyteller/marketing lead, making sure our ideas are clear and compelling.
+- **Ike LLoyd Yana** - Designer and frontend specialist, crafting clean, intuitive, and user-friendly interfaces.
+- **Jovanne Vincentinoo** - Developer, helping turn our concepts into solid, working features.
 
 ---
 
