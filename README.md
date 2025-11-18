@@ -381,7 +381,7 @@ cacaosense/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/cacaosense.git
+   git clone https://github.com/ryanvincecastillo/cacaosense.git
    cd cacaosense
    ```
 
